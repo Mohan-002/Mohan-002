@@ -2,6 +2,7 @@
 - 👀 I’m interested in Full stack web development (MERN)
 - 🌱 I’m currently learning React js for front end and node js, mongoDB for backend
 - 💞️ I’m looking for an internship for full stack developer
+- 💻 I have skills in HTML5,CSS3,Javascript(ES6),C,C++,MySQL,Oracle SQL
 
 
 <!---
